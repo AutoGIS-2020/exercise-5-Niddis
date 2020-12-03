@@ -16,8 +16,11 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
+ - [My static map](https://autogis-2020.github.io/exercise-5-Niddis/stations_pop.png)
+   This map tells us how many people live inside 500 metres from railwaystations in Helsinki and Vantaa.
+   
+ - [My interactive map](https://autogis-2020.github.io/exercise-5-Niddis/solar_and_greenroofs.html)
+   This map shows buildings that have potential for producing a lot of solar electricity and / or for greenroofs.
  
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
