@@ -1,0 +1,28 @@
+id;addr
+Helsinki; Elielinaukio 3, 00100 Helsinki, Finland
+Pasila;rautatieasema pasila, 00520 Helsinki, Finland
+Käpylä;rautatieasema käpylä, 00620 Helsinki, Finland
+Oulunkylä;rautatieasema oulunkylä, 00640 Helsinki, Finland
+Pukinmäki;rautatieasema pukinmäki, 00720 Helsinki, Finland
+Malmi;rautatieasema malmi, 00700 Helsinki, Finland
+Tapanila;rautatieasema tapanila, 00730 Helsinki, Finland
+Puistola;rautatieasema puistola, 00750 Helsinki, Finland
+Tikkurila;rautatieasema tikkurila, 01300 Vantaa, Finland
+Hiekkaharju;rautatieasema hiekkaharju, 01370 Vantaa, Finland
+Koivukylä;rautatieasema koivukylä, 01360 Vantaa, Finland
+Rekola;rautatieasema rekola, 01400 Vantaa, Finland
+Korso;rautatieasema korso, 01450 Vantaa, Finland
+Ilmala;rautatieasema ilmala, 00230 Helsinki, Finland
+Huopalahti;rautatieasema huopalahti, 00320 Helsinki, Finland
+Valimo;rautatieasema valimo, 00380 Helsinki, Finland
+Pitäjänmäki;rautatieasema pitäjänmäki, 00370 Helsinki, Finland
+Pohjois-Haaga;rautatieasema pohjois-haaga, 00440 Helsinki, Finland
+Kannelmäki;rautatieasema kannelmäki, 00420 Helsinki, Finland
+Malminkartano;rautatieasema malminkartano, 00410 Helsinki, Finland
+Myyrmäki;rautatieasema myyrmäki, 01600 Vantaa, Finland
+Louhela;rautatieasema louhela, 01600 Vantaa, Finland
+Martinlaakso;rautatieasema martinlaakso, 01620 Vantaa, Finland
+Vantaankoski;rautatieasema vantaankoski, 01620 Vantaa, Finland
+Vehkala;rautatieasema vehkala, 01730 Vantaa, Finland
+Kivistö;rautatieasema kivistö, 01700 Vantaa, Finland
+Leinelä;rautatieasema leinelä, 01360 Vantaa, Finland
